@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0E0pBORBYJ0oq7u8P8wPx+cn+CMr1J1pX9vxAXABEYA=",
+  "Source": "ticketier",
+  "BasePath": "_content/ticketier",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
